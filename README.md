@@ -1,4 +1,4 @@
-# TPUnity
+# UnityBasics
 School assignment about making a basic game with unity
 
 Controls : 
