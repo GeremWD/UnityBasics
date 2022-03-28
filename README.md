@@ -1,5 +1,5 @@
 # UnityBasics
-School assignment about making a basic game with unity
+Small project to learn the basics of Unity
 
 Controls : 
   Z, Q, S, D to move, 
